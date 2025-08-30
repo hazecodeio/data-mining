@@ -1,3 +1,13 @@
+**/_env-*.properties
+
+**/_temp*
+
+_etc/
+
+**/target
+**/.idea
+**/*.iml
+
 # Compiled class file
 *.class
 
